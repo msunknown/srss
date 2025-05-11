@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int numbers = 20;
-        int numb = 50;
-        int sum = numbers + numb;
+        int num1 = 20;
+        int num2 = 50;
+        int sum = num1 + num2;
 
         System.out.println("Sum: " + sum);
     }
